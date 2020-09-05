@@ -27,6 +27,6 @@
 ![feed](https://user-images.githubusercontent.com/55017730/92308960-fb782080-efbe-11ea-854b-5c1342af9148.jpeg)
  
  
- ## UI Inspiration : Current [Facebook's](https://www.facebook.com/susnata01) UI
+ ## Inspiration : Current [Facebook's](https://www.facebook.com/susnata01) UI
  
  #### *Hosted with [Firebase](https://firebase.google.com/)* 
