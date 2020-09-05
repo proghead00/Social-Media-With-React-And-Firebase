@@ -1,6 +1,6 @@
 # Social Media With React And Firebase 💬
 
-## A social media web app where you can post with or without a picture. It is global, so everyone and see all the posts been posted. It uses Google Authentication for direct Sign In.
+## A social media web app where you can post with or without a picture. It is global, so everyone can see all the posts been posted. It uses Google Authentication for direct Sign In.
 
 ## 🤜 [See it live](https://social-media-af76e.firebaseapp.com/) 🤛
 
