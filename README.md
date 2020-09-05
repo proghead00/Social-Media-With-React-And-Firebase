@@ -14,7 +14,7 @@
 ## 🗒️ Libraries/Stuff I Used In This Project:
 
 * ### [Material UI](https://material-ui.com/)
-* ### React Router
+* ### React Context API 
 * ### React Hooks
 * ### Flexbox
 * ### Firebase's Firestore Realtime DataBase
