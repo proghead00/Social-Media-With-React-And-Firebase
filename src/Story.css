@@ -1,0 +1,33 @@
+.story {
+	position: relative;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 120px;
+	height: 200px;
+	box-shadow: 0px 5px 17px -7 rgba(0, 0, 0, 75);
+	border-radius: 10px;
+	margin-right: 10px;
+	transition: transform 100 ms ease-in;
+	cursor: pointer;
+}
+
+.story:hover {
+	transform: scale(1.07);
+}
+
+.story__avatar {
+	margin: 10px;
+	border: 5px solid #5f25aa;
+}
+
+.story > h4 {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	color: white;
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+}

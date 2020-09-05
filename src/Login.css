@@ -1,0 +1,44 @@
+.login {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: white;
+}
+
+.logo1 {
+	height: 370px;
+	/*👉margin-top: 1rem;👈*/
+	margin-right: 40px;
+}
+
+.logo2 {
+	height: 300px;
+	margin-left: 1rem;
+}
+
+.login > button {
+	width: 300px;
+	background-color: #5f25aa;
+	color: #eff2f5;
+	font-weight: 800;
+	margin-bottom: 7rem;
+}
+
+.login > button:hover {
+	background-color: white;
+	color: #5f25aa;
+}
+.login > div > img {
+	object-fit: contain;
+	/*👉	height: 260px;👈*/
+	/*👉margin-right: 50px;👈*/
+}
+
+.login > div {
+	display: flex;
+	flex-direction: column;
+}
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
